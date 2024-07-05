@@ -1,3 +1,7 @@
+export const metadata = {
+  title: 'About Next JS Demo',
+};
+
 const AboutPage = () => {
   return (
     <div>
